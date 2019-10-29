@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-29 15:33:56",
+  "sys_id": "74d1992ddb700010343f58b3ca9619ac",
+  "sys_mod_count": 0,
+  "sys_name": "u_requests.global_devops_user",
+  "sys_package": "cb2a0925db700010343f58b3ca9619cd",
+  "sys_policy": null,
+  "sys_scope": "cb2a0925db700010343f58b3ca9619cd",
+  "sys_update_name": "sys_security_acl_role_74d1992ddb700010343f58b3ca9619ac",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-29 15:33:56",
+  "transaction_id": null
+}

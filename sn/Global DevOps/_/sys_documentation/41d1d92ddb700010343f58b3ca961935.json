@@ -1,0 +1,23 @@
+{
+  "element": "u_caller",
+  "help": null,
+  "hint": null,
+  "label": "caller",
+  "language": "en",
+  "name": "u_requests",
+  "plural": "callers",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-29 15:33:57",
+  "sys_id": "41d1d92ddb700010343f58b3ca961935",
+  "sys_mod_count": 0,
+  "sys_name": "caller",
+  "sys_package": "cb2a0925db700010343f58b3ca9619cd",
+  "sys_policy": null,
+  "sys_scope": "cb2a0925db700010343f58b3ca9619cd",
+  "sys_update_name": "sys_documentation_u_requests_u_caller_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-29 15:33:57",
+  "url": null,
+  "url_target": null
+}
