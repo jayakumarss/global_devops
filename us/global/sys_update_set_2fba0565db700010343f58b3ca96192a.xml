@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-10-29 15:03:16">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<application_name>Global DevOps</application_name>
+<application_scope>global</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>Global DevOps - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>2fba0565db700010343f58b3ca96192a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>1fca05e5db700010343f58b3ca96196b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_9b2ac5a5db700010343f58b3ca961967</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_id>9b2ac5a5db700010343f58b3ca961967</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_global_devops_table.global_devops_user</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_security_acl display_value="u_global_devops_table">132ac5a5db700010343f58b3ca961965</sys_security_acl><sys_update_name>sys_security_acl_role_9b2ac5a5db700010343f58b3ca961967</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:31</sys_updated_on><sys_user_role display_value="global_devops_user" name="global_devops_user">9b2a85a5db700010343f58b3ca96194a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1632988909</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>13ca05e5db700010343f58b3ca96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa3440000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>u_global_devops_table.global_devops_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>6bba05e5e37000109f9ec930c5fbe21d</update_guid>
+<update_guid_history>6bba05e5e37000109f9ec930c5fbe21d:1632988909,972ac5a5b17000108984b6c70c916969:1632988909</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_932ac5a5db700010343f58b3ca96196a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_global_devops_table</description><name>u_global_devops_table</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_id>932ac5a5db700010343f58b3ca96196a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_global_devops_table</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_security_acl_932ac5a5db700010343f58b3ca96196a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:31</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-248630472</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>17ca05e5db700010343f58b3ca96196e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa2ae0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>u_global_devops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>a3ba05e5e0700010d042ee4d2ae4e913</update_guid>
+<update_guid_history>a3ba05e5e0700010d042ee4d2ae4e913:-248630472,932ac5a52e70001078edd570b070606c:-248630472</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_global_devops_table__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Global Devops Table" language="en" table="u_global_devops_table"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Global Devops Table</label><language>en</language><name>u_global_devops_table</name><plural>Global Devops Tables</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:32</sys_created_on><sys_id>972ac5a5db700010343f58b3ca9619ad</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Global Devops Table</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_documentation_u_global_devops_table__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:32</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-296354121</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>1bca05e5db700010343f58b3ca96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa3770000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>Global Devops Table</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>ffba05e51a700010b7b64bd5d4866021</update_guid>
+<update_guid_history>ffba05e51a700010b7b64bd5d4866021:-296354121,ef2a09a5cd7000101a60e318b2aed91a:-296354121,672ac5a5237000109fe773e47f9c0bd4:-1518514505</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_0f2a0925db700010343f58b3ca9619cd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Global Devops Table</label><live_feed_enabled>false</live_feed_enabled><name>u_global_devops_table</name><number_ref display_value="GLO">e72ac5a5db700010343f58b3ca9619d6</number_ref><provider_class/><read_access>true</read_access><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_id>0f2a0925db700010343f58b3ca9619cd</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Global Devops Table</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_db_object_0f2a0925db700010343f58b3ca9619cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:32</sys_updated_on><update_access>false</update_access><user_role display_value="global_devops_user" name="global_devops_user">9b2a85a5db700010343f58b3ca96194a</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-640671236</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>1fca05e5db700010343f58b3ca96196c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa2740000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>Global Devops Table</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>6fba05e5db700010d34b2ebe79bc2e0e</update_guid>
+<update_guid_history>6fba05e5db700010d34b2ebe79bc2e0e:-640671236,e72a09a5db7000108881c8deb0f0c21d:-640671236,a72ac5a56b7000108e1b6d85c8eb15d5:-1096940012</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_9b2a85a5db700010343f58b3ca96194a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>global_devops_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix/><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_id>9b2a85a5db700010343f58b3ca96194a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>global_devops_user</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_user_role_9b2a85a5db700010343f58b3ca96194a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:31</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>262216034</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>1fca05e5db700010343f58b3ca96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa3a00000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table/>
+<target_name>global_devops_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>bfba05e52770001005f739e45a79d824</update_guid>
+<update_guid_history>bfba05e52770001005f739e45a79d824:262216034,132a85a54d700010fbb1006a671c5f4e:142916172</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_132ac5a5db700010343f58b3ca961965</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_global_devops_table</description><name>u_global_devops_table</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_id>132ac5a5db700010343f58b3ca961965</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_global_devops_table</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_security_acl_132ac5a5db700010343f58b3ca961965</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:31</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1614095860</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>53ca05e5db700010343f58b3ca96196e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa29c0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>u_global_devops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>2fba05e5037000109220040d52f6f711</update_guid>
+<update_guid_history>2fba05e5037000109220040d52f6f711:1614095860,132ac5a59f70001029a35ad63f014667:1614095860</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_u_global_devops_table_u_number_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_number" label="Number" language="en" table="u_global_devops_table"><sys_documentation action="INSERT_OR_UPDATE"><element>u_number</element><help/><hint/><label>Number</label><language>en</language><name>u_global_devops_table</name><plural>Numbers</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:32</sys_created_on><sys_id>ef2a09a5db700010343f58b3ca961921</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Number</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_documentation_u_global_devops_table_u_number_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:32</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-215513573</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>57ca05e5db700010343f58b3ca96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa3880000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>Global Devops Table.Number</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>b7ba05e5397000103008e4ee6c41eb23</update_guid>
+<update_guid_history>b7ba05e5397000103008e4ee6c41eb23:-215513573,ef2a09a519700010bcf76a1e6e617936:-215513573</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_a72a09a5db700010343f58b3ca961939</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Global DevOps">072a85a5db700010343f58b3ca961948</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Global DevOps Table</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_global_devops_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>global_devops_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a72a09a5db700010343f58b3ca961939</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Global DevOps Table</sys_name><sys_overrides/><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_app_module_a72a09a5db700010343f58b3ca961939</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:32</sys_updated_on><timeline_page/><title>Global DevOps Table</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>148159645</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>5bca05e5db700010343f58b3ca96196c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa3ba0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>Global DevOps Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>fbba05e5a8700010a35ae659279f9826</update_guid>
+<update_guid_history>fbba05e5a8700010a35ae659279f9826:148159645,2f2a09a51470001067e0dd0daaefe23a:148159645</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_e32a09a5db700010343f58b3ca96193d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Global DevOps">6b2a09a5db700010343f58b3ca96193b</application><filter/><name>Global DevOps Table</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>global_devops_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e32a09a5db700010343f58b3ca96193d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Global DevOps Table</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_ui_module_e32a09a5db700010343f58b3ca96193d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:32</sys_updated_on><table>u_global_devops_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>-86042018</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>5bca05e5db700010343f58b3ca96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa3d30000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>Global DevOps Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>fbba05e5987000102529e9f284fe8034</update_guid>
+<update_guid_history>fbba05e5987000102529e9f284fe8034:-86042018,a32a09a565700010ee55bad03827083e:-86042018</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_932ac5a5db700010343f58b3ca961962</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_id>932ac5a5db700010343f58b3ca961962</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_global_devops_table.global_devops_user</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_security_acl display_value="u_global_devops_table">132ac5a5db700010343f58b3ca96195f</sys_security_acl><sys_update_name>sys_security_acl_role_932ac5a5db700010343f58b3ca961962</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:31</sys_updated_on><sys_user_role display_value="global_devops_user" name="global_devops_user">9b2a85a5db700010343f58b3ca96194a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1102613759</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>5fca05e5db700010343f58b3ca96196e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa3310000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>u_global_devops_table.global_devops_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>a3ba05e5c6700010580178df82a1ae1c</update_guid>
+<update_guid_history>a3ba05e5c6700010580178df82a1ae1c:1102613759,d32ac5a5627000101a3e9933909f7d64:1102613759</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_global_devops_table_u_number</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_number" table="u_global_devops_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;ignore_filter_on_new=true&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Number&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value&gt;javascript:global.getNextObjNumberPadded();&lt;/default_value&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_number&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_global_devops_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-29 15:00:32&lt;/sys_created_on&gt;&lt;sys_id&gt;a72a09a5db700010343f58b3ca96191e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Number&lt;/sys_name&gt;&lt;sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd"&gt;cb2a0925db700010343f58b3ca9619cd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global DevOps"&gt;cb2a0925db700010343f58b3ca9619cd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_global_devops_table_u_number&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-29 15:00:32&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-924842157</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>93ca05e5db700010343f58b3ca96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa2f20000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>Global Devops Table.Number</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>ebba05e5d770001031e7ab7c64fd1317</update_guid>
+<update_guid_history>ebba05e5d770001031e7ab7c64fd1317:-924842157,2f2a09a5ac700010a39e5baeb383c335:-924842157</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_cb2a0925db700010343f58b3ca9619cd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="Global DevOps">072a85a5db700010343f58b3ca961948</menu><name>Global DevOps</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>global</scope><scoped_administration>false</scoped_administration><short_description/><source>cb2a0925db700010343f58b3ca9619cd</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_id>cb2a0925db700010343f58b3ca9619cd</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:31</sys_updated_on><template/><trackable>true</trackable><user_role display_value="global_devops_user" name="global_devops_user">9b2a85a5db700010343f58b3ca96194a</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-1900797783</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>97ca05e5db700010343f58b3ca96196c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa22e0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table/>
+<target_name>Global DevOps</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>ebba05653870001021077c60d47fec2c</update_guid>
+<update_guid_history>ebba05653870001021077c60d47fec2c:-1900797783,1f2ac5a5a5700010d1fe994fd3936856:-1900797783</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_6b2a09a5db700010343f58b3ca96193b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Global DevOps</name><order/><roles>global_devops_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6b2a09a5db700010343f58b3ca96193b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Global DevOps</sys_name><sys_overrides/><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_ui_application_6b2a09a5db700010343f58b3ca96193b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:32</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>543578466</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>97ca05e5db700010343f58b3ca96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa3670000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table/>
+<target_name>Global DevOps</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>f7ba05e5c3700010f08dc25c4f247120</update_guid>
+<update_guid_history>f7ba05e5c3700010f08dc25c4f247120:543578466,e72a09a53d7000109cffe1e308c96e3c:543578466</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_572ac5a5db700010343f58b3ca96197e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_id>572ac5a5db700010343f58b3ca96197e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_global_devops_table.global_devops_user</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_security_acl display_value="u_global_devops_table">db2ac5a5db700010343f58b3ca96197b</sys_security_acl><sys_update_name>sys_security_acl_role_572ac5a5db700010343f58b3ca96197e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:31</sys_updated_on><sys_user_role display_value="global_devops_user" name="global_devops_user">9b2a85a5db700010343f58b3ca96194a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-146340715</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>9bca05e5db700010343f58b3ca96196e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa3200000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>u_global_devops_table.global_devops_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>ebba05e586700010c954f683a062bd1a</update_guid>
+<update_guid_history>ebba05e586700010c954f683a062bd1a:-146340715,532ac5a574700010fb469653d52caf80:-146340715</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_132ac5a5db700010343f58b3ca96195f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_global_devops_table</description><name>u_global_devops_table</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_id>132ac5a5db700010343f58b3ca96195f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_global_devops_table</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_security_acl_132ac5a5db700010343f58b3ca96195f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:31</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1016866856</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>9fca05e5db700010343f58b3ca96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa2880000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>u_global_devops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>a7ba05e5c97000100ada9c0893c6b410</update_guid>
+<update_guid_history>a7ba05e5c97000100ada9c0893c6b410:1016866856,d72ac5a516700010fa7a63ad5f290c61:1016866856</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_d32ac5a5db700010343f58b3ca961979</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_id>d32ac5a5db700010343f58b3ca961979</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_global_devops_table.global_devops_user</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_security_acl display_value="u_global_devops_table">932ac5a5db700010343f58b3ca96196a</sys_security_acl><sys_update_name>sys_security_acl_role_d32ac5a5db700010343f58b3ca961979</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:31</sys_updated_on><sys_user_role display_value="global_devops_user" name="global_devops_user">9b2a85a5db700010343f58b3ca96194a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>918989329</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>d3ca05e5db700010343f58b3ca96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa3560000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>u_global_devops_table.global_devops_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>33ba05e522700010ecb64f5cf06b6e1f</update_guid>
+<update_guid_history>33ba05e522700010ecb64f5cf06b6e1f:918989329,df2ac5a54a700010b4d14fc6c3b0447a:918989329</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_db2ac5a5db700010343f58b3ca96197b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on u_global_devops_table</description><name>u_global_devops_table</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_id>db2ac5a5db700010343f58b3ca96197b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_global_devops_table</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_security_acl_db2ac5a5db700010343f58b3ca96197b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:31</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1618506250</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>d7ca05e5db700010343f58b3ca96196e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa2c10000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>u_global_devops_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>2bba05e52e7000109b9deca1fd9ab814</update_guid>
+<update_guid_history>2bba05e52e7000109b9deca1fd9ab814:1618506250,db2ac5a51f70001041ccc442ee11327d:1618506250</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_number_e72ac5a5db700010343f58b3ca9619d6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="u_global_devops_table">u_global_devops_table</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>GLO</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:32</sys_created_on><sys_id>e72ac5a5db700010343f58b3ca9619d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GLO</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_number_e72ac5a5db700010343f58b3ca9619d6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:32</sys_updated_on></sys_number></record_update>]]></payload>
+<payload_hash>-1670676566</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>dbca05e5db700010343f58b3ca96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa3e90000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table/>
+<target_name>GLO</target_name>
+<type>Number</type>
+<update_domain>global</update_domain>
+<update_guid>f3ba05e5d070001095ea836426ed5236</update_guid>
+<update_guid_history>f3ba05e5d070001095ea836426ed5236:-1670676566,632a09a56070001094c0ca8d948d3338:-1670676566</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_072a85a5db700010343f58b3ca961948</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>Global DevOps</name><order/><roles>global_devops_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>072a85a5db700010343f58b3ca961948</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Global DevOps</sys_name><sys_overrides/><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>sys_app_application_072a85a5db700010343f58b3ca961948</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:31</sys_updated_on><title>Global DevOps</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-185668174</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>dfca05e5db700010343f58b3ca96196b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa25f0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table/>
+<target_name>Global DevOps</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>27ba056550700010d75f6b1a6965c62e</update_guid>
+<update_guid_history>27ba056550700010d75f6b1a6965c62e:-185668174,532ac5a5d1700010137cc942409d755a:-185668174,1b2a85a5fd700010171b072075963e49:1808409878</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_u_global_devops_table_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="u_global_devops_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;u_global_devops_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-29 15:00:31&lt;/sys_created_on&gt;&lt;sys_id&gt;1f2ac5a5db700010343f58b3ca961980&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_global_devops_table&lt;/sys_name&gt;&lt;sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd"&gt;cb2a0925db700010343f58b3ca9619cd&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global DevOps"&gt;cb2a0925db700010343f58b3ca9619cd&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_u_global_devops_table_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-29 15:00:31&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1758117044</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>dfca05e5db700010343f58b3ca96196c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa2dc0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table>u_global_devops_table</table>
+<target_name>Global Devops Table</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>a3ba05e5ce700010a4011b51af3de616</update_guid>
+<update_guid_history>a3ba05e5ce700010a4011b51af3de616:1758117044,e32ac5a5d47000105e9a48bf774d7ad3:1758117044</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_2f2ac5a5db700010343f58b3ca9619d0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_global_devops_table</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-29 15:00:32</sys_created_on><sys_id>2f2ac5a5db700010343f58b3ca9619d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_global_devops_table</sys_name><sys_package display_value="Global DevOps" source="cb2a0925db700010343f58b3ca9619cd">cb2a0925db700010343f58b3ca9619cd</sys_package><sys_policy/><sys_scope display_value="Global DevOps">cb2a0925db700010343f58b3ca9619cd</sys_scope><sys_update_name>ua_table_licensing_config_2f2ac5a5db700010343f58b3ca9619d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-29 15:00:32</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>462033536</payload_hash>
+<remote_update_set display_value="Global DevOps - 1.0.0">1fca05e5db700010343f58b3ca96196b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-29 15:03:15</sys_created_on>
+<sys_id>dfca05e5db700010343f58b3ca96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e180aa30b0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-29 15:03:15</sys_updated_on>
+<table/>
+<target_name>u_global_devops_table</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>a3ba05e553700010b1510e7b9aa75019</update_guid>
+<update_guid_history>a3ba05e553700010b1510e7b9aa75019:462033536,ab2ac5a59b700010a19324013ed2dcd1:462033536</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
